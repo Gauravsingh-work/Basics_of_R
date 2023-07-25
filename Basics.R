@@ -1,4 +1,4 @@
-<h1 align="left">Variables </h1>
+#Variables
 
 a = "book"
 a = "pen"
