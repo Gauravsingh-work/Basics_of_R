@@ -1,5 +1,5 @@
-##Installation Of R
 
+<h1 align="center">Installation Of R </h1>
 1. To install R, go to cran.r-project.org
 [cran.r-project.org](https://cran.r-project.org/)
 
