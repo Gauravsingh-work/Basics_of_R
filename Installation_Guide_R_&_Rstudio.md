@@ -2,7 +2,6 @@
 <h1 align="center">Installation Of R </h1>
 1. To install R, go to cran.r-project.org
 [cran.r-project.org](https://cran.r-project.org/)
-
 2. Depending on your operating system, click Download R for (your operating system).
 
 ![image](https://github.com/Gauravsingh-work/Basics_of_R/assets/101575355/bd46db8a-5528-46b5-8c96-6e33f4f9ac47)
