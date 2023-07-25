@@ -52,7 +52,6 @@ You can also choose if you do not want a Start Menu folder at the bottom.
 
 14. Next, download RStudio. Go to www.rstudio.com
 
-  [www.rstudio.com](https://posit.co/)
 
 15. Click Download RStudio.
 
